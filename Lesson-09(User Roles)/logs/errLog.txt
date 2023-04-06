@@ -1,0 +1,5 @@
+20230326	16:36:28	 86d031bb-8f73-4ae5-9134-3fcad13f4504	 Error : not allowed by cors
+20230327	10:41:57	 39066963-4cd5-40bf-9044-39806ac4d3f0	 ReferenceError : name is not defined
+20230327	17:51:42	 d3646f2a-eb1a-4fda-9a42-4e444ad22f41	 TypeError : Cannot read properties of undefined (reading 'length')
+20230330	13:39:31	 fc4dd071-5993-4b52-9b78-1023fcc3bd86	 ReferenceError : whitelist is not defined
+20230330	13:43:57	 a904c319-44f8-4b69-b0a7-dd12a4e5f6ae	 ReferenceError : whitelist is not defined

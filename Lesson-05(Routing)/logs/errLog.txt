@@ -1,0 +1,2 @@
+20230326	16:36:28	 86d031bb-8f73-4ae5-9134-3fcad13f4504	 Error : not allowed by cors
+20230327	10:41:57	 39066963-4cd5-40bf-9044-39806ac4d3f0	 ReferenceError : name is not defined
